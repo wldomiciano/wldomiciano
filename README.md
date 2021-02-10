@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **wldomiciano/wldomiciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
