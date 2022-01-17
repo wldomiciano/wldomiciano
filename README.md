@@ -2,11 +2,11 @@
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A classe Boolean do Java](https://wldomiciano.com/a-classe-boolean-do-java/)
 - [Como ler e escrever arquivos de texto com Java](https://wldomiciano.com/como-ler-e-escrever-arquivos-de-texto-em-java/)
 - [Como usar o decorator @Attribute em Angular](https://wldomiciano.com/como-usar-decorator-attribute-em-angular/)
 - [Como instalar o VS Code e Google Chrome oficiais no Ubuntu pela linha de comando](https://wldomiciano.com/comandos-para-instalar-vscode-e-chrome-no-ubuntu/)
 - [O que são os Compound Literals em C](https://wldomiciano.com/o-que-sao-compound-literals-em-c/)
-- [Como criar checkbox e radio buttons personalizados com CSS](https://wldomiciano.com/como-personalizar-checkbox-radio-button-com-css/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
