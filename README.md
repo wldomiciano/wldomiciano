@@ -2,11 +2,11 @@
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [O método toString do Java](https://wldomiciano.com/o-metodo-to-string-do-java/)
 - [Como agrupar asserts no JUnit](https://wldomiciano.com/como-agrupar-asserts-no-junit/)
 - [A classe Boolean do Java](https://wldomiciano.com/a-classe-boolean-do-java/)
 - [Como ler e escrever arquivos de texto com Java](https://wldomiciano.com/como-ler-e-escrever-arquivos-de-texto-em-java/)
 - [Como usar o decorator @Attribute em Angular](https://wldomiciano.com/como-usar-decorator-attribute-em-angular/)
-- [Como instalar o VS Code e Google Chrome oficiais no Ubuntu pela linha de comando](https://wldomiciano.com/comandos-para-instalar-vscode-e-chrome-no-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
