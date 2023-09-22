@@ -2,11 +2,11 @@
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sobre identificadores de chaves estrangeiras no MySQL](https://wldomiciano.com/identificadores-de-chaves-estrangeiras-mysql/)
 - [Métodos obsoletos da HttpSecurity no Spring Security 6.1](https://wldomiciano.com/metodos-obsoletos-da-httpsecurity-spring-security-6-1/)
 - [O método toString do Java](https://wldomiciano.com/o-metodo-to-string-do-java/)
 - [Como agrupar asserts no JUnit](https://wldomiciano.com/como-agrupar-asserts-no-junit/)
 - [A classe Boolean do Java](https://wldomiciano.com/a-classe-boolean-do-java/)
-- [Como ler e escrever arquivos de texto com Java](https://wldomiciano.com/como-ler-e-escrever-arquivos-de-texto-em-java/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
